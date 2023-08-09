@@ -1,0 +1,4 @@
+#Thu Aug 10 03:56:34 UZT 2023
+base.0=G\:\\Studio projects\\robot_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
